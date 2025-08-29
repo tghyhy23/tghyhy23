@@ -24,109 +24,80 @@
 
 ### 🧰 Tech Stack (clickable)
 
-<table>
-  <tr>
-    <td align="center" width="90">
-      <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"/><br/>
-        <sub>Python</sub>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=pytorch" width="48" alt="PyTorch"/><br/>
-        <sub>PyTorch</sub>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" alt="TensorFlow"/><br/>
-        <sub>TensorFlow</sub>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=jupyter" width="48" alt="Jupyter"/><br/>
-        <sub>Jupyter</sub>
-      </a>
-    </td>
-  </tr>
+<!-- Skills (no table, gray rows via <kbd>) -->
+<div align="center">
 
-  <tr>
-    <td align="center" width="90">
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript"/><br/>
-        <sub>TypeScript</sub>
+  <!-- Row 1 -->
+  <p>
+    <kbd>
+      <a href="https://www.python.org/" title="Python">
+        <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"/>
       </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://react.dev/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/><br/>
-        <sub>React</sub>
+      <a href="https://pytorch.org/" title="PyTorch">
+        <img src="https://skillicons.dev/icons?i=pytorch" width="48" alt="PyTorch"/>
       </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js"/><br/>
-        <sub>Node.js</sub>
+      <a href="https://www.tensorflow.org/" title="TensorFlow">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" alt="TensorFlow"/>
       </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=express" width="48" alt="Express"/><br/>
-        <sub>Express</sub>
+      <a href="https://jupyter.org/" title="Jupyter">
+        <img src="https://skillicons.dev/icons?i=jupyter" width="48" alt="Jupyter"/>
       </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL"/><br/>
-        <sub>PostgreSQL</sub>
-      </a>
-    </td>
-  </tr>
+    </kbd>
+  </p>
 
-  <tr>
-    <td align="center" width="90">
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB"/><br/>
-        <sub>MongoDB</sub>
+  <!-- Row 2 -->
+  <p>
+    <kbd>
+      <a href="https://www.typescriptlang.org/" title="TypeScript">
+        <img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript"/>
       </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://graphql.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" alt="GraphQL"/><br/>
-        <sub>GraphQL</sub>
+      <a href="https://react.dev/" title="React">
+        <img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/>
       </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://socket.io/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=socketio" width="48" alt="WebSocket/Socket.IO"/><br/>
-        <sub>WebSocket</sub>
+      <a href="https://nodejs.org/" title="Node.js">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js"/>
       </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker"/><br/>
-        <sub>Docker</sub>
+      <a href="https://expressjs.com/" title="Express">
+        <img src="https://skillicons.dev/icons?i=express" width="48" alt="Express"/>
       </a>
-    </td>
-  </tr>
+      <a href="https://www.postgresql.org/" title="PostgreSQL">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL"/>
+      </a>
+    </kbd>
+  </p>
 
-  <tr>
-    <td align="center" width="90">
-      <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" alt="Postman"/><br/>
-        <sub>Postman</sub>
+  <!-- Row 3 -->
+  <p>
+    <kbd>
+      <a href="https://www.mongodb.com/" title="MongoDB">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB"/>
       </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" alt="Figma"/><br/>
-        <sub>Figma</sub>
+      <a href="https://graphql.org/" title="GraphQL">
+        <img src="https://skillicons.dev/icons?i=graphql" width="48" alt="GraphQL"/>
       </a>
-    </td>
-  </tr>
-</table>
+      <a href="https://socket.io/" title="Socket.IO / WebSocket">
+        <img src="https://skillicons.dev/icons?i=socketio" width="48" alt="Socket.IO"/>
+      </a>
+      <a href="https://www.docker.com/" title="Docker">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker"/>
+      </a>
+    </kbd>
+  </p>
+
+  <!-- Row 4 -->
+  <p>
+    <kbd>
+      <a href="https://www.postman.com/" title="Postman">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" alt="Postman"/>
+      </a>
+      <a href="https://www.figma.com/" title="Figma">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" alt="Figma"/>
+      </a>
+    </kbd>
+  </p>
+
+</div>
+
 
 
 ---
