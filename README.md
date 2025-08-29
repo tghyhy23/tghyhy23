@@ -64,9 +64,6 @@
       <a href="https://expressjs.com/" title="Express">
         <img src="https://skillicons.dev/icons?i=express" width="48" alt="Express"/>
       </a>
-      <a href="https://www.postgresql.org/" title="PostgreSQL">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL"/>
-      </a>
     </kbd>
   </p>
 
@@ -76,6 +73,9 @@
     <kbd>
       <a href="https://www.mongodb.com/" title="MongoDB">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB"/>
+      </a>
+       <a href="https://www.postgresql.org/" title="PostgreSQL">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL"/>
       </a>
       <a href="https://graphql.org/" title="GraphQL">
         <img src="https://skillicons.dev/icons?i=graphql" width="48" alt="GraphQL"/>
