@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZeroAmuro/ZeroAmuro/main/banner.png" alt="Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/ZeroAmuro/ZeroAmuro/main/bg astro.png" alt="Banner" width="100%">
 </p>
 
 🚀 A passionate **AI Engineer**, **ML Researcher** and **Web Developer**
