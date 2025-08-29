@@ -39,18 +39,12 @@
       <a href="https://www.tensorflow.org/" title="TensorFlow">
         <img src="https://skillicons.dev/icons?i=tensorflow" width="48" alt="TensorFlow"/>
       </a>
-      <a href="https://jupyter.org/" title="Jupyter">
-        <img src="https://skillicons.dev/icons?i=jupyter" width="48" alt="Jupyter"/>
-      </a>
     </kbd>
   </p>
 
   <!-- Row 2 -->
   <p>
     <kbd>
-      <a href="https://www.typescriptlang.org/" title="TypeScript">
-        <img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript"/>
-      </a>
       <a href="https://react.dev/" title="React">
         <img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/>
       </a>
@@ -89,6 +83,9 @@
     <kbd>
       <a href="https://www.postman.com/" title="Postman">
         <img src="https://skillicons.dev/icons?i=postman" width="48" alt="Postman"/>
+      </a>
+      <a href="https://git-scm.com/" title="Git">
+        <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/>
       </a>
       <a href="https://www.figma.com/" title="Figma">
         <img src="https://skillicons.dev/icons?i=figma" width="48" alt="Figma"/>
