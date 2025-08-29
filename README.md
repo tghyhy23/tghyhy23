@@ -10,7 +10,7 @@
 
 <p align="center">
   🚀 A passionate <b>AI Engineer</b>, <b>ML Researcher</b> & <b>Web Developer</b><br/>
-  💻 Building real-world, scalable AI systems • 🌍 Ho Chi Minh City
+  💻 Building real-world, scalable AI systems
 </p>
 
 ---
