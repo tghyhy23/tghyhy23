@@ -13,13 +13,6 @@
   💻 Building real-world, scalable AI systems
 </p>
 
-<p align="center">
-  <img
-    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftghyhy23&title=Profile%20views&edge_flat=false"
-    alt="Profile views for tghyhy23"
-  />
-</p>
-
 ---
 
 ## 🔹 About Me
