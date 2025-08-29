@@ -22,13 +22,13 @@
 
 ---
 
-### 🧰 Tech Stack (clickable)
-
+## Tech Stack 
 <!-- Skills (no table, gray rows via <kbd>) -->
-<div align="center">
+<div align="left">
 
   <!-- Row 1 -->
   <p>
+    AI - ML
     <kbd>
       <a href="https://www.python.org/" title="Python">
         <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"/>
@@ -44,9 +44,19 @@
 
   <!-- Row 2 -->
   <p>
+    WebDev
     <kbd>
       <a href="https://react.dev/" title="React">
         <img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/>
+      </a>
+      <a href="" title="HTML">
+        <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML"/>
+      </a>
+      <a href="" title="CSS">
+        <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS"/>
+      </a>
+      <a href="" title="JS">
+        <img src="https://skillicons.dev/icons?i=js" width="48" alt="JS"/>
       </a>
       <a href="https://nodejs.org/" title="Node.js">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js"/>
@@ -62,6 +72,7 @@
 
   <!-- Row 3 -->
   <p>
+    Other tools
     <kbd>
       <a href="https://www.mongodb.com/" title="MongoDB">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB"/>
@@ -75,12 +86,6 @@
       <a href="https://www.docker.com/" title="Docker">
         <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker"/>
       </a>
-    </kbd>
-  </p>
-
-  <!-- Row 4 -->
-  <p>
-    <kbd>
       <a href="https://www.postman.com/" title="Postman">
         <img src="https://skillicons.dev/icons?i=postman" width="48" alt="Postman"/>
       </a>
@@ -92,7 +97,6 @@
       </a>
     </kbd>
   </p>
-
 </div>
 
 
