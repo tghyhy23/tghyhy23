@@ -22,7 +22,7 @@
 
 ---
 
-## Tech Stack 
+### 🧰 Tech Stack (clickable, no table)
 
 <!-- Row 1 -->
 <p align="left">
@@ -55,28 +55,81 @@
 
 <!-- Row 2 -->
 <p align="left">
-  <span><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="48" alt="TypeScript"/></a><br/><sub>TypeScript</sub></span>&nbsp;&nbsp;&nbsp;
-  <span><a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react&theme=dark" height="48" alt="React"/></a><br/><sub>React</sub></span>&nbsp;&nbsp;&nbsp;
-  <span><a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="48" alt="Node.js"/></a><br/><sub>Node.js</sub></span>&nbsp;&nbsp;&nbsp;
-  <span><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express&theme=dark" height="48" alt="Express"/></a><br/><sub>Express</sub></span>&nbsp;&nbsp;&nbsp;
-  <span><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="48" alt="PostgreSQL"/></a><br/><sub>PostgreSQL</sub></span>
+  <span>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="48" alt="TypeScript"/>
+    </a><br/><sub>TypeScript</sub>
+  </span>&nbsp;&nbsp;&nbsp;
+  <span>
+    <a href="https://react.dev/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" height="48" alt="React"/>
+    </a><br/><sub>React</sub>
+  </span>&nbsp;&nbsp;&nbsp;
+  <span>
+    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="48" alt="Node.js"/>
+    </a><br/><sub>Node.js</sub>
+  </span>&nbsp;&nbsp;&nbsp;
+  <span>
+    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=express&theme=dark" height="48" alt="Express"/>
+    </a><br/><sub>Express</sub>
+  </span>&nbsp;&nbsp;&nbsp;
+  <span>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="48" alt="PostgreSQL"/>
+    </a><br/><sub>PostgreSQL</sub>
+  </span>
 </p>
 
 <!-- Row 3 -->
 <p align="left">
-  <span><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="48" alt="MongoDB"/></a><br/><sub>MongoDB</sub></span>&nbsp;&nbsp;&nbsp;
-  <span><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=graphql&theme=dark" height="48" alt="GraphQL"/></a><br/><sub>GraphQL</sub></span>&nbsp;&nbsp;&nbsp;
-  <span><a href="https://socket.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=socketio&theme=dark" height="48" alt="WebSocket/Socket.IO"/></a><br/><sub>WebSocket</sub></span>&nbsp;&nbsp;&nbsp;
-  <span><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker&theme=dark" height="48" alt="Docker"/></a><br/><sub>Docker</sub></span>&nbsp;&nbsp;&nbsp;
-  <span><a href="https://docs.github.com/actions" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" height="48" alt="GitHub Actions"/></a><br/><sub>Actions</sub></span>
+  <span>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="48" alt="MongoDB"/>
+    </a><br/><sub>MongoDB</sub>
+  </span>&nbsp;&nbsp;&nbsp;
+  <span>
+    <a href="https://graphql.org/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=graphql&theme=dark" height="48" alt="GraphQL"/>
+    </a><br/><sub>GraphQL</sub>
+  </span>&nbsp;&nbsp;&nbsp;
+  <span>
+    <a href="https://socket.io/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=socketio&theme=dark" height="48" alt="WebSocket/Socket.IO"/>
+    </a><br/><sub>WebSocket</sub>
+  </span>&nbsp;&nbsp;&nbsp;
+  <span>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="48" alt="Docker"/>
+    </a><br/><sub>Docker</sub>
+  </span>&nbsp;&nbsp;&nbsp;
+  <span>
+    <a href="https://docs.github.com/actions" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" height="48" alt="GitHub Actions"/>
+    </a><br/><sub>Actions</sub>
+  </span>
 </p>
 
 <!-- Row 4 -->
 <p align="left">
-  <span><a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws&theme=dark" height="48" alt="AWS"/></a><br/><sub>AWS</sub></span>&nbsp;&nbsp;&nbsp;
-  <span><a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman&theme=dark" height="48" alt="Postman"/></a><br/><sub>Postman</sub></span>&nbsp;&nbsp;&nbsp;
-  <span><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma&theme=dark" height="48" alt="Figma"/></a><br/><sub>Figma</sub></span>
+  <span>
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="48" alt="AWS"/>
+    </a><br/><sub>AWS</sub>
+  </span>&nbsp;&nbsp;&nbsp;
+  <span>
+    <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=postman&theme=dark" height="48" alt="Postman"/>
+    </a><br/><sub>Postman</sub>
+  </span>&nbsp;&nbsp;&nbsp;
+  <span>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=figma&theme=dark" height="48" alt="Figma"/>
+    </a><br/><sub>Figma</sub>
+  </span>
 </p>
+
 ---
 
 <!--  Featured Projects 
