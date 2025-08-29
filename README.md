@@ -30,21 +30,73 @@
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Tech Stack (clickable)
 
-<!-- AI/ML -->
+<!-- AI / ML -->
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,jupyter&perline=10" height="44" />
+  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44" title="Python" alt="Python"/>
+  </a>&nbsp;
+  <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="44" title="PyTorch" alt="PyTorch"/>
+  </a>&nbsp;
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="44" title="TensorFlow" alt="TensorFlow"/>
+  </a>&nbsp;
+  <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="44" title="scikit-learn" alt="scikit-learn"/>
+  </a>&nbsp;
+  <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="44" title="Jupyter" alt="Jupyter"/>
+  </a>
 </p>
 
 <!-- Web & Apps -->
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,postgres,mongodb,graphql,socketio&perline=12" height="44" />
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="44" title="TypeScript" alt="TypeScript"/>
+  </a>&nbsp;
+  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" title="React" alt="React"/>
+  </a>&nbsp;
+  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="44" title="Node.js" alt="Node.js"/>
+  </a>&nbsp;
+  <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="44" title="Express" alt="Express"/>
+  </a>&nbsp;
+  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="44" title="PostgreSQL" alt="PostgreSQL"/>
+  </a>&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="44" title="MongoDB" alt="MongoDB"/>
+  </a>&nbsp;
+  <a href="https://graphql.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="44" title="GraphQL" alt="GraphQL"/>
+  </a>&nbsp;
+  <!-- WebSocket: dùng icon Socket.IO (gần nhất) -->
+  <a href="https://socket.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="44" title="Socket.IO (WebSocket RT)" alt="Socket.IO"/>
+  </a>
 </p>
 
 <!-- DevOps & Tools -->
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,postman,figma&perline=12" height="44" />
+  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="44" title="Docker" alt="Docker"/>
+  </a>&nbsp;
+  <a href="https://docs.github.com/actions" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="44" title="GitHub Actions" alt="GitHub Actions"/>
+  </a>&nbsp;
+  <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="66" title="AWS" alt="AWS"/>
+  </a>&nbsp;
+  <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="44" title="Postman" alt="Postman"/>
+  </a>&nbsp;
+  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="44" title="Figma" alt="Figma"/>
+  </a>
 </p>
 
 
