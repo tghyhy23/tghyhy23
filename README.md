@@ -30,7 +30,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 **AI/ML:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
@@ -51,13 +51,11 @@
 **DevOps & Tools:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=FF9900)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-000000?logo=figma&logoColor=white)
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 <!-- Đổi <username>/<repo> sang repo thật của bạn -->
 <p align="center">
   <a href="https://github.com/ZeroAmuro/Bloomart"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=ZeroAmuro&repo=Bloomart&theme=transparent&hide_border=true"></a>
@@ -70,19 +68,8 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZeroAmuro&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroAmuro&layout=compact&theme=transparent&hide_border=true" />
-</p>
-<p align="center">
-  <img height="190" src="https://streak-stats.demolab.com/?user=ZeroAmuro&theme=transparent&hide_border=true" />
-</p>
-
----
-
-## 🤝 Connect
-- 📫 Reach me: **<youremail>@gmail.com**
+## Connect
+- 📫 Reach me: <a href="https://www.linkedin.com/in/gia-hy-truong-0b7b552b7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
 - <!--  Portfolio: **https://<your-portfolio-domain> -->
 
 
