@@ -114,11 +114,11 @@
 ---
 
 ## Connect
-<p>
-  - 📫 Reach me: 
-      <a href="https://www.linkedin.com/in/gia-hy-truong-0b7b552b7/" title="LinkedIn">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
-      </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gia-hy-truong-0b7b552b7/" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="28" alt="LinkedIn"/>
+    &nbsp;<b>📫 Reach me</b>
+  </a>
 </p>
 
  <!--  Portfolio: **https://<your-portfolio-domain> -->
