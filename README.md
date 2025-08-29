@@ -28,7 +28,7 @@
 
   <!-- Row 1 -->
   <p>
-    AI - ML
+    AI - ML: 
     <kbd>
       <a href="https://www.python.org/" title="Python">
         <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"/>
@@ -44,7 +44,7 @@
 
   <!-- Row 2 -->
   <p>
-    WebDev
+    WebDev: 
     <kbd>
       <a href="https://react.dev/" title="React">
         <img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/>
@@ -72,16 +72,13 @@
 
   <!-- Row 3 -->
   <p>
-    Other tools
+    Other tools: 
     <kbd>
       <a href="https://www.mongodb.com/" title="MongoDB">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB"/>
       </a>
       <a href="https://graphql.org/" title="GraphQL">
         <img src="https://skillicons.dev/icons?i=graphql" width="48" alt="GraphQL"/>
-      </a>
-      <a href="https://socket.io/" title="Socket.IO / WebSocket">
-        <img src="https://skillicons.dev/icons?i=socketio" width="48" alt="Socket.IO"/>
       </a>
       <a href="https://www.docker.com/" title="Docker">
         <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker"/>
