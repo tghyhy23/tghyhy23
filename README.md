@@ -13,17 +13,17 @@
   💻 Building real-world, scalable AI systems
 </p>
 
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/tghyhy23&title=Profile%20views&edge_flat=false" alt="Profile views for tghyhy23"/>
+</p>
+
+
 ---
 
 ## 🔹 About Me
 - 🔭 Currently exploring **Machine Learning, NLP & AI projects**
 - 🌱 Leveling up **Web Dev** & learning to apply **AI-for-Web** 
 - 🎯 Goal: Contribute impactful open-source projects & publish practical demos
-- 
-- <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/tghyhy23&title=Profile%20views&edge_flat=false" alt="Profile views for tghyhy23"/>
-</p>
-
 
 ---
 
