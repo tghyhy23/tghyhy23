@@ -114,8 +114,10 @@
 ---
 
 ## Connect
-- 📫 Reach me: <a href="https://www.linkedin.com/in/gia-hy-truong-0b7b552b7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-- <!--  Portfolio: **https://<your-portfolio-domain> -->
+- 📫 Reach me: <a href="https://www.linkedin.com/in/gia-hy-truong-0b7b552b7/" title="LinkedIn">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
+      </a>
+ <!--  Portfolio: **https://<your-portfolio-domain> -->
 
 
 ---
