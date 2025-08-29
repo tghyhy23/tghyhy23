@@ -46,12 +46,6 @@
       </a>
     </td>
     <td align="center" width="90">
-      <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=sklearn" width="48" alt="scikit-learn"/><br/>
-        <sub>scikit-learn</sub>
-      </a>
-    </td>
-    <td align="center" width="90">
       <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=jupyter" width="48" alt="Jupyter"/><br/>
         <sub>Jupyter</sub>
@@ -60,12 +54,6 @@
   </tr>
 
   <tr>
-    <td align="center" width="90">
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript"/><br/>
-        <sub>TypeScript</sub>
-      </a>
-    </td>
     <td align="center" width="90">
       <a href="https://react.dev/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/><br/>
@@ -117,21 +105,9 @@
         <sub>Docker</sub>
       </a>
     </td>
-    <td align="center" width="90">
-      <a href="https://docs.github.com/actions" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=githubactions" width="48" alt="GitHub Actions"/><br/>
-        <sub>Actions</sub>
-      </a>
-    </td>
   </tr>
 
   <tr>
-    <td align="center" width="90">
-      <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" alt="AWS"/><br/>
-        <sub>AWS</sub>
-      </a>
-    </td>
     <td align="center" width="90">
       <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=postman" width="48" alt="Postman"/><br/>
