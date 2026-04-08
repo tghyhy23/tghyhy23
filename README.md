@@ -1,6 +1,5 @@
 <!-- ─────────────────────────  BANNER  ───────────────────────── -->
 <p align="center">
-  <!-- Nếu sau này có banner Dark mode, thay srcset cho dark -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./bg%20astro.png">
     <source media="(prefers-color-scheme: light)" srcset="./bg%20astro.png">
@@ -9,18 +8,13 @@
 </p>
 
 <p align="center">
-  🚀 A passionate <b>AI Engineer</b>, <b>ML Researcher</b> & <b>Web Developer</b><br/>
-  💻 Building real-world, scalable AI systems
+  🚀 A passionate <b>Software Developer</b>, <b>Fullstack Developer</b> & <b>AI-ML Researcher</b><br/>
+  💻 Building real-world, scalable development systems
 </p>
 
 ---
 
-## 🔹 About Me
-- 🔭 Currently exploring **Machine Learning, NLP & AI projects**
-- 🌱 Leveling up **Web Dev** & learning to apply **AI-for-Web** 
-- 🎯 Goal: Contribute impactful open-source projects & publish practical demos
 
----
 
 ## Tech Stack 
 <!-- Skills (no table, gray rows via <kbd>) -->
