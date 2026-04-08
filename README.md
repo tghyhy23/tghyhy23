@@ -14,7 +14,17 @@
 
 ---
 
+## About Me  
 
+I am a passionate **Software Developer** with interests in **Fullstack Development** and **AI/ML**.  
+I enjoy building **scalable, real-world applications** and exploring intelligent, data-driven solutions.  
+
+🚀 Currently focused on:  
+- Fullstack development  
+- AI/ML & NLP  
+- Mobile app development
+
+---
 
 ## Tech Stack 
 <!-- Skills (no table, gray rows via <kbd>) -->
